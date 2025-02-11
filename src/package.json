@@ -1,0 +1,16 @@
+{
+  "name": "llm-mouth-animation",
+  "version": "1.0.0",
+  "description": "A mouth animation system that connects to LLMs",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "three": "^0.132.2"
+  },
+  "devDependencies": {
+    "serve": "^12.0.0"
+  }
+}
